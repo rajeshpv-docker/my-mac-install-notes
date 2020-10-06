@@ -154,3 +154,7 @@ echo $BASH_VERSION
 echo $BASH_VERSION
 
 ``` 
+-rw-r--r--   1 rajeshpradeshik  staff  1166 Sep 30 15:42 _1_pre_requisite-v1.md
+-rw-r--r--   1 rajeshpradeshik  staff  3096 Sep 30 15:42 _2_customize_system_prefs.md
+-rw-r--r--   1 rajeshpradeshik  staff  4759 Sep 30 15:42 _3_install_tools_v1.md
+-rw-r--r--   1 rajeshpradeshik  staff  6298 Sep 30 15:42 _4_install_apps_v1.md

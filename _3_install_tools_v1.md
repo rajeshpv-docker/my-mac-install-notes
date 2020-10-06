@@ -89,7 +89,6 @@ sdk version
 sdk list java | grep 8
 sdk install java 8.0.265.hs-adpt
 sdk install java 11.0.8.hs-adpt 
-sdk default java 8.0.265.hs-adpt
 
 sdk install maven 3.6.3
 sdk install ant 1.10.8
@@ -100,7 +99,17 @@ sdk install scala 2.13.3
 sdk install groovy 3.0.5
 sdk install spark 2.4.6
 
+# set defaults
 sdk default java 8.0.265.hs-adpt
+
+sdk default maven 3.6.3
+sdk default ant 1.10.8
+sdk default sbt 1.3.13
+sdk default gradle 6.6.1
+
+sdk default scala 2.13.3
+sdk default groovy 3.0.5
+sdk default spark 2.4.6
 ```
 
 ### Setup SDKMAN init at bashrc
